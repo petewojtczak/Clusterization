@@ -1,5 +1,5 @@
 # Clusterization
-Pipeline consisting of StandardScaler, PCA and Kmeans is applied to cluster countries by indicators of development.<br>
+A pipeline consisting of StandardScaler, PCA, and KMeans is being applied to cluster countries by indicators of development. PCA is further employed to visualize the clusters.
 <br>
 Libraries employed: numpy, pandas, matplotlib, seaborn, sklearn.<br>
 <br>
